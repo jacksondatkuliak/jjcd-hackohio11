@@ -1,10 +1,13 @@
+body {
+    background-color: darkgray;
+}
+
 .container {
     display: inline-block;
     padding: 2.5%;
 }
 
 .center {
-    display: flex;
     text-align: center;
     justify-content: center;
 }
